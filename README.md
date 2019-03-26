@@ -4,6 +4,7 @@
 
 - clone this repo
 - npm install
+- rename 'connect_options_example.js' to 'connect_options.js' with your database credentials
 - node index.js c|l [firstName lastName]
 
 ## Using pg
